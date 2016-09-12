@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\user\yandexdisk\documents\цмф\2 семестр\derivatives pricing\hw\5\optionpricing\optionpricing\main.cpp(45): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\user\yandexdisk\documents\цмф\2 семестр\derivatives pricing\hw\5\optionpricing\optionpricing\main.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+  OptionPricing.vcxproj -> C:\Users\User\YandexDisk\Documents\ЦМФ\2 семестр\Derivatives Pricing\HW\5\OptionPricing\Debug\OptionPricing.exe

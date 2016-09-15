@@ -1,0 +1,5 @@
+﻿  Random.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\user\yandexdisk\documents\цмф\2 семестр\derivatives pricing\hw\3\ivanov as hw4\optionpricing\optionpricing\random.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\yandexdisk\documents\цмф\2 семестр\derivatives pricing\hw\3\ivanov as hw4\optionpricing\optionpricing\random.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+  OptionPricing.vcxproj -> C:\Users\User\YandexDisk\Documents\ЦМФ\2 семестр\Derivatives Pricing\HW\3\Ivanov AS HW4\OptionPricing\Debug\OptionPricing.exe
